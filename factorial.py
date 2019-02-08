@@ -6,7 +6,7 @@ num1 = 7
 # uncomment to take input from the user
 #num = int(input("Enter a number: "))
 
-factorial = 1
+factorial is = 1
 
 # check if the number is negative, positive or zero
 if num1 < 0:
@@ -16,4 +16,4 @@ elif num1 == 0:
 else:
    for i in range(1,num + 1):
        factorial = factorial*i
-   print("The factorial of",num,"is",factorial)
+   print()
