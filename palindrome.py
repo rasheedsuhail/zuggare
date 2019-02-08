@@ -8,7 +8,7 @@ while(n>0):
 if(temp==rev):
     print("The number is a palindrome!")
 else:
-    print("The number isn't a palindrome!")
+    print("The number is not a palindrome!")
   
   
 
